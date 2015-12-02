@@ -1,0 +1,9 @@
+
+*~
+.DS_Store
+/puppet/Puppetfile.lock
+/Gemfile.lock
+/.bash_profile
+/puppet/.librarian/
+/.vagrant/
+.idea/
